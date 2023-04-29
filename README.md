@@ -5,7 +5,7 @@
 
 - I worked on Portfolio project-4 [Web Application Firewall Implementation on DVWA](https://drive.google.com/file/d/1tK1ezHk_WrP_4r7-PrOctBupdPZbXUCr/view?usp=drive_web&authuser=0)
 
-- I worked on Portfolio project-3 [Website Penetration Testing](https://drive.google.com/file/d/1s9cD1IX8EekocVbaKwgkfgrIn94Ik-8e/view?usp=drive_web&authuser=0)
+- I worked on Portfolio project-3 [Website Penetration Testing](https://docs.google.com/presentation/d/1ca409lJIbZGy4x8u6FiQC2bdUVpV_OfM/edit?usp=sharing&ouid=103645037035356299584&rtpof=true&sd=true)
 
 - I worked on Portfolio project 1-2 [Vulnerability Management Program, OSINT](https://drive.google.com/file/d/1U54wSa9S5PqeRSQ4QHHyo4im7IxT-1Sf/view?usp=drive_web&authuser=0)
 
